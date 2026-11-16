@@ -1,7 +1,7 @@
-# Bank of Canada Inflation Calculator — Monthly Edition
+# Bank of Canada Inflation Calculator - Monthly Edition
 
-**FINE 3300 (Fall 2026) · Assignment #2 · Part B: Consumer Price Index**
-**Author:** _[Your Name]_ · Schulich School of Business, York University
+**FINE 3300 (Fall 2026), Assignment #2, Part B: Consumer Price Index**
+**Author:** Aarav Puthran, Schulich School of Business, York University
 
 This project rebuilds the [Bank of Canada Inflation Calculator](https://www.bankofcanada.ca/rates/related/inflation-calculator/) in Python and adds features to it. It reads Canada's monthly Consumer Price Index (CPI) from 1914 to today, graphs it, and answers the question *"What would something that cost $X back then cost now (or at any other date)?"*
 
