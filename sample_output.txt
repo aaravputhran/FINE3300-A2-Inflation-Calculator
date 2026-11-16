@@ -1,0 +1,86 @@
+======================================================================
+        BANK OF CANADA INFLATION CALCULATOR (MONTHLY EDITION)         
+======================================================================
+Data loaded: 1353 monthly CPI observations from Jan 1914 to Sep 2026.
+Check: average CPI in 2002 = 100.0 (base level should be 100.0)
+Saving the graph to cpi_graph.png ... close the graph window to continue.
+
+Enter dates as YYYY-MM (e.g. 2000-09) or YYYY-MM-DD, between Jan 1914 and Sep 2026.
+
+Enter the price of the goods or services (e.g. 100 or 1,250.50): $abc
+  Invalid amount. Please enter a positive number (commas and spaces are allowed).
+Enter the price of the goods or services (e.g. 100 or 1,250.50): $100
+Enter the date of the FIRST period  (YYYY-MM): 2000-09
+Enter the date of the SECOND period (YYYY-MM): 2026-09
+
+======================================================================
+                     INFLATION CALCULATOR RESULTS                     
+======================================================================
+A "basket" of goods and services that cost:
+             $100.00 CAD  in Sep 2000
+...would cost:
+             $176.90 CAD  in Sep 2026
+----------------------------------------------------------------------
+Percent change:                                                 76.90%
+Number of years:                            26.00 (26 years, 0 months)
+Average annual rate of inflation (%) /
+  Decline in the value of money:                                 2.22%
+CPI for first date (Sep 2000):                                    96.1
+CPI for second date (Sep 2026):                                  170.0
+======================================================================
+2002 CPI = 100.0
+
+Would you like to do another calculation? (y/n): y
+
+Enter the price of the goods or services (e.g. 100 or 1,250.50): $-50
+  Invalid amount. Please enter a positive number (commas and spaces are allowed).
+Enter the price of the goods or services (e.g. 100 or 1,250.50): $1,250.50
+Enter the date of the FIRST period  (YYYY-MM): 2027-01
+  Jan 2027 is outside the data set. Please enter a date between Jan 1914 and Sep 2026.
+Enter the date of the FIRST period  (YYYY-MM): 2000-13
+  Invalid date. The month must be between 1 and 12.
+Enter the date of the FIRST period  (YYYY-MM): 1914-01-15
+Enter the date of the SECOND period (YYYY-MM): 2026-09
+
+======================================================================
+                     INFLATION CALCULATOR RESULTS                     
+======================================================================
+A "basket" of goods and services that cost:
+           $1,250.50 CAD  in Jan 1914
+...would cost:
+          $35,430.83 CAD  in Sep 2026
+----------------------------------------------------------------------
+Percent change:                                              2,733.33%
+Number of years:                          112.67 (112 years, 8 months)
+Average annual rate of inflation (%) /
+  Decline in the value of money:                                 3.01%
+CPI for first date (Jan 1914):                                     6.0
+CPI for second date (Sep 2026):                                  170.0
+======================================================================
+2002 CPI = 100.0
+
+Would you like to do another calculation? (y/n): y
+
+Enter the price of the goods or services (e.g. 100 or 1,250.50): $500 000
+Enter the date of the FIRST period  (YYYY-MM): 2026-09
+Enter the date of the SECOND period (YYYY-MM): 2000-09
+
+======================================================================
+                     INFLATION CALCULATOR RESULTS                     
+======================================================================
+A "basket" of goods and services that cost:
+         $500,000.00 CAD  in Sep 2026
+...would cost:
+         $282,647.06 CAD  in Sep 2000
+----------------------------------------------------------------------
+Percent change:                                                -43.47%
+Number of years:                      -26.00 (26 years, 0 months back)
+Average annual rate of inflation (%) /
+  Decline in the value of money:                                -2.17%
+CPI for first date (Sep 2026):                                   170.0
+CPI for second date (Sep 2000):                                   96.1
+======================================================================
+2002 CPI = 100.0
+
+Would you like to do another calculation? (y/n): n
+Thank you for using the inflation calculator!
